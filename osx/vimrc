@@ -58,9 +58,9 @@ set is
 set hls
 set ts=4
 set sw=4
-set fo
 set et
 set bs=eol,start,indent
+set sc
 colorscheme solarized
 
 " GUI config
